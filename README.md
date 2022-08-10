@@ -1,2 +1,2 @@
-# Vanier-College
-web programming course assignments and projects
+# Assignment 2
+Vanier College web programming course assignments
